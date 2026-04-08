@@ -1,3 +1,4 @@
+# Módulo de Cálculo de Áreas
 def area_cuadrado(lado):
     return lado * lado
 
