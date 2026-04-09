@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# MODIFICACIÓN RAMA A
-=======
-# MODIFICACIÓN RAMA B
->>>>>>> feature-b
 # MODIFICACIÓN RAMA RESUELTA
 def area_cuadrado(lado):
     return lado * lado
