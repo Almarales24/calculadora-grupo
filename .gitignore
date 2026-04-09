@@ -1,0 +1,10 @@
+# Archivos de Python que no deben subirse
+__pycache__/
+*.pyc
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos sensibles (NUNCA subir esto)
+.env
